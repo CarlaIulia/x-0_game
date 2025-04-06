@@ -36,7 +36,7 @@ After initializing the game environment, the code sets the application name and 
 
 ```python
 pythonCopy code
-pygame.display.set_caption("TicTacToe by Ioana_Manaila")
+pygame.display.set_caption("TicTacToe by Carla_Tihan")
 
 # Assets (Images for buttons, X, O, etc.)
 # (Some asset-related code is commented out in the provided snippet.)
